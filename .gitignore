@@ -1,0 +1,14 @@
+# virtual environment 
+venv/
+
+# secrets
+.env
+
+# data
+data/
+
+# OS/Editor cruft
+.DS_Store 
+Thumbs.db
+desktop.ini
+.vscode/
